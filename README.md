@@ -61,11 +61,6 @@ This project is an end-to-end data analysis solution designed to extract critica
      - The `README.md` file (this document).
      - SQL query scripts.
      - Data files (if possible) or steps to access them
-    
-   - sns.boxplot(data=df, x='Store', y='Weekly_Sales')
-plt.title('Distribution of Weekly Sales Across Stores')
-plt.show()
-
 ---
 
 ## Requirements
